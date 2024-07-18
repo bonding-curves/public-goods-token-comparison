@@ -1,2 +1,2 @@
-# TEC1pager-data
-Pulling data for the $TEC 1 pager.
+# Public Goods Token Comparison
+Date retrieval and analysis for comparing public goods tokens. 
